@@ -131,10 +131,10 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": false
+            "enabled": true
         }
     },
-    "appVersion": "0.1.1",
-    "buildNumber": 1,
+    "appVersion": "0.2.0",
+    "buildNumber": 2,
     "runtimeUrl": "http://192.168.100.146:8087/"
 }
